@@ -32,7 +32,7 @@ Procedure
 •	Load voltage 
 ________________________________________
 Observation
-<img width="1920" height="449" alt="Screenshot 2026-11-02 092733" src="https://github.com/user-attachments/assets/6828b3e7-6982-497d-ab8e-9c0762308308" />
+<img width="1920" height="462" alt="Screenshot 2026-11-13 102817" src="https://github.com/user-attachments/assets/3c28d41e-35e0-46c1-b5d7-b30f1185c275" />
 
 
 
@@ -49,7 +49,8 @@ The smoothing capacitor is connected across the rectifier output. The capacitor 
 The Zener diode regulator and load are connected. A stable regulated DC output is obtained at the load.
 ________________________________________
 Result
-<img width="1920" height="554" alt="Screenshot 2026-11-13 102621" src="https://github.com/user-attachments/assets/5aee63a4-8975-4430-b798-6d4d0dcdd4dc" />
+<img width="1920" height="553" alt="Screenshot 2026-11-13 10281" src="https://github.com/user-attachments/assets/d8a16ec1-682c-42d2-ab83-7703ffc33778" />
+
 
 
 Thus, the regulated power supply was simulated using LTspice. The output waveform at each stage was observed and analysed, and a stable regulated DC output was obtained at the load. 
